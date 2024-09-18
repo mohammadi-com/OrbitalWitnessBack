@@ -1,7 +1,5 @@
 [![Python Version](http://img.shields.io/badge/Python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/)
 
-# tdl-warmup-python
-
 
 ## 1. Requirements
 
@@ -17,5 +15,5 @@
 
 
 ## 3. Run the server
-Run the app using the command: fastapi dev main.py.\
+Run the app using the command: `fastapi dev main.py`.\
 Open [http://localhost:8000/docs](http://localhost:8000/docs) to view api docs it in your browser.
