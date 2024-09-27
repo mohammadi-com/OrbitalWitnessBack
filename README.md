@@ -1,4 +1,5 @@
 [![Python Version](http://img.shields.io/badge/Python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/)
+
 This project is done as part of techincal task of Orbital Witness.
 
 ## 1. Requirements
